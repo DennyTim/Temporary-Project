@@ -1,0 +1,28 @@
+h1,
+h2 {
+    font-family: Lato;
+}
+
+.header {
+    background-color: rgb(247, 170, 140);
+}
+
+.main {
+    background-color: rgb(209, 231, 176);
+    display: inline-block;
+    width: 69%;
+    vertical-align: top;
+}
+
+.aside {
+    background-color: rgb(203, 145, 241);
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    height: 420px;
+    max-height: fit-content;
+}
+
+.footer {
+    background-color: rgb(188, 191, 231);
+}
